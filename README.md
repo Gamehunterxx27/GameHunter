@@ -1,2 +1,2 @@
 # GameHunter
-Im Bulding Games
+I Make Games 
